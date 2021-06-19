@@ -227,6 +227,6 @@ main::before {
   cursor: pointer;
   border: none;
   outline: none;
-  padding: 8px 10px;
+  padding: 5px 10px;
   border-radius: 10px;
 }
