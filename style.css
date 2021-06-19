@@ -225,4 +225,7 @@ main::before {
   margin-top: 25px;
   transform: scale(1.5);
   cursor: pointer;
+  border: none;
+  outline: none;
+  padding: 8px 8px;
 }
